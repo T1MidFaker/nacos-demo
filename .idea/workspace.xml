@@ -7,16 +7,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\InstallPan\Java\apache-maven-3.6.1\maven-repo" />
-        <option name="mavenHome" value="D:/InstallPan/Java/apache-maven-3.6.1" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../InstallPan/Java/apache-maven-3.6.1" />
         <option name="userSettingsFile" value="D:\InstallPan\Java\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="2eRyxOrJWZUp42kN5p33dave7MS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="SvnConfiguration">
@@ -39,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711881930679</updated>
       <workItem from="1711881944512" duration="210000" />
+      <workItem from="1711882231095" duration="400000" />
     </task>
     <servers />
   </component>
